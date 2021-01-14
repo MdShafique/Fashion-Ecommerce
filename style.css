@@ -100,3 +100,55 @@ h5{
 .right-section{
   padding-left: 10px;
 }
+.contact-area{
+  margin-top: 80px;
+}
+.contact-area h1{
+  margin-left: 8px;
+  color: white;
+}
+.left-area{
+  margin-top: 40px;
+}
+.left-area input{
+  width: 100%;
+  height: 40px;
+  border: 0;
+  border-radius: 5px;
+}
+.right-area{
+  margin-top: 8px;
+}
+.right-area input{
+  width: 100%;
+  height: 125px;
+  border-radius: 5px;
+  border: 0;
+}
+.contact-area{
+  background-color: gray;
+  border-radius: 10px;
+}
+.btn-area{
+  margin-bottom: 80px;
+}
+.btn-area button{
+  width: 150px;
+  height: 40px;
+  background-color: palevioletred;
+  border: 0;
+  border-radius: 5px;
+  font-weight: 700;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+footer{
+  width: 100%;
+  height: 60px;
+  border: 1px solid;
+  margin-top: 40px;
+  text-align: center;
+  padding-top: 15px;
+  background-color: black;
+  color: whitesmoke;
+}

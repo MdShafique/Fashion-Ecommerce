@@ -1,0 +1,102 @@
+h1, h5{
+  font-family: 'Poppins', sans-serif;
+}
+.top-logo{
+    width: 300px;
+    height: 50px;
+}
+.menu-area{
+  margin-right: 60px;
+}
+.menu-area a{
+  font-weight: 600;
+  color: black;
+}
+.header-area{
+  background-color: #FFFBF0;
+  height: 700px;
+}
+/* /* .middile-area{} */
+.text-area{
+  padding-top: 15px;
+}
+.text-area h1{
+  font-size: 60px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #FABE4C;
+}
+.special-color{
+  color: #363958;
+}
+.pic-area img{
+  width: 440px;
+  height: 500px;
+}
+.button-area{
+  margin-top: 20px;
+  background-color: #A4BC46;
+  border: 0;
+  color: white;
+  font-weight: 400;
+  width: 150px;
+  height: 50px;
+  border-radius: 10px;
+}
+.button-area i{
+  font-size: 15px;
+  background-color: white;
+}
+.women-product{
+  margin-top: 60px;
+}
+.card-area{
+  height: 550px;
+  margin-top: 60px;
+  box-shadow: 10px 10px 40px #F1F1F1;
+  border-radius: 10%;
+  border: 0;
+
+}
+.card-area img{
+  background-color: #F1F1F1;
+  border-radius: 10%;
+  width: 90%;
+  height: 300px;
+  margin-top: 5%;
+  margin-left: 5%;
+}
+.price-area h1{
+  margin-top: 20px;
+  color: #FABE4C;
+}
+h5{
+  color:#363958;
+}
+.man-product{
+  margin-top: 60px;
+}
+.down-section{
+  margin-top: 70px;
+  margin-bottom: 50px;
+}
+.first-section{
+  display: flex;
+  justify-content: left;
+  padding: 15px;
+  box-shadow: 10px 10px 40px rgb(204, 202, 202);
+  margin-top: 15px;
+  border-radius: 10px;
+  padding-left: 20px;
+}
+.first-section img{
+  width: 100px;
+  height: 100px;
+}
+.second-section img{
+  width: 100%;
+  height: 400px;
+}
+.right-section{
+  padding-left: 10px;
+}

@@ -1,22 +1,27 @@
 h1, h5{
   font-family: 'Poppins', sans-serif;
 }
-.top-logo{
+.top-logo img{
     width: 300px;
     height: 50px;
 }
-.menu-area{
-  margin-right: 60px;
+.right-area{
+  display: flex;
+  justify-content:flex-end;
 }
-.menu-area a{
+.right-area li{
+  padding: 10px
+}
+.right-area a{
   font-weight: 600;
   color: black;
 }
 .header-area{
   background-color: #FFFBF0;
-  height: 700px;
 }
-/* /* .middile-area{} */
+.middle-area{
+  margin-top: 30px;
+}
 .text-area{
   padding-top: 15px;
 }
@@ -43,9 +48,8 @@ h1, h5{
   height: 50px;
   border-radius: 10px;
 }
-.button-area i{
-  font-size: 15px;
-  background-color: white;
+.btn-sec{
+  margin-right: 5px;
 }
 .women-product{
   margin-top: 60px;
@@ -119,11 +123,12 @@ h5{
 .right-area{
   margin-top: 8px;
 }
-.right-area input{
+.right-input input{
   width: 100%;
   height: 125px;
   border-radius: 5px;
   border: 0;
+  margin-top: 3px;
 }
 .contact-area{
   background-color: gray;
@@ -141,6 +146,7 @@ h5{
   font-weight: 700;
   color: white;
   font-family: 'Poppins', sans-serif;
+  margin-top: 30px;
 }
 footer{
   width: 100%;
